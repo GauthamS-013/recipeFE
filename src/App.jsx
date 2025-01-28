@@ -12,7 +12,7 @@ function App() {
         <a className="navbar-brand ms-4" href="">
           {' '}
           <i className="fa-solid fa-utensils me-2"></i>
-         <b style={{color:'#FFF2D7'}}> Recipes</b>
+         <b style={{color:'#FFF2D7'}}> Cookbook</b>
         </a>
       </nav>
 
